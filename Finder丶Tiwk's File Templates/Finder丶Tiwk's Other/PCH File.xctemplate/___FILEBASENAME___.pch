@@ -1,0 +1,21 @@
+//
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//  _____  _           _          _____ _          _
+//  |  ___(_)_ __   __| | ___ _ _|_   _(_)_      _| | __
+//  | |_  | | '_ \ / _` |/ _ \ '__|| | | \ \ /\ / / |/ /
+//  |  _| | | | | | (_| |  __/ |   | | | |\ V  V /|   <
+//  |_|   |_|_| |_|\__,_|\___|_|   |_| |_| \_/\_/ |_|\_\
+//
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//___COPYRIGHT___
+//
+
+#ifndef ___FILEBASENAMEASIDENTIFIER_______FILEEXTENSION___
+#define ___FILEBASENAMEASIDENTIFIER_______FILEEXTENSION___
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ___FILEBASENAMEASIDENTIFIER_______FILEEXTENSION___ */
